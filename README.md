@@ -1,6 +1,16 @@
 # rgc3-cloudscapedesign-aws-usergroup-website
 
-this is the public facing code for bryanchasko.com
+#todo, link custom ssl cert  in cloudfront distribution for awsaerospace.org
+
+#todo2
+To add an alternate domain name (CNAME) to a CloudFront distribution, you must attach a trusted certificate that validates your authorization to use the domain name. then you can add
+Alternate domain name (CNAME) - optional
+Add the custom domain names that you use in URLs for the files served by this distribution.
+awsaerospace.org
+Remove
+www.awsaerospace.org
+Remove
+Add item
 
 Deploying a cloudscape design system website using aws s3 static website hosting, cdn by cloudfront, route53 hosting and dns tables, .
 
